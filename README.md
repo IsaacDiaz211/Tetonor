@@ -34,7 +34,7 @@ El juego pone el foco en el razonamiento lógico, la deducción y la verificaci�
 - La fila inferior muestra los 16 números:
   - Los valores fijos no pueden modificarse.
   - Los valores ocultos pueden completarse manualmente.
-![Tetonor – Vista del juego](assets/interfaz.png)
+![Tetonor – Vista del juego](app/src/assets/interfaz.png)
 
 ---
 
